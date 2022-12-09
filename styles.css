@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(49, 53, 54);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  h3 {
+    color: white;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  li{
+    color: white; 
+  }
+  ol{
+    color: white;
+  }
+  ul{
+    color: white;
+  }
+  a{
+    color: white; 
+  }
